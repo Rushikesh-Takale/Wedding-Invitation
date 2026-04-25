@@ -182,11 +182,11 @@ section{
 
 /* different images */
 .groom-card {
-    background-image: url('images/11.png');
+    background-image: url('images/11.jpg');
 }
 
 .bride-card {
-    background-image: url('images/12.png');
+    background-image: url('images/12.jpg');
 }
 
 /* soft overlay */
@@ -299,17 +299,17 @@ section{
 
 /* Engagement Image from Google */
 .engagement-card {
-    background-image:  url('images/21.png'); 
+    background-image:  url('images/21.jpg'); 
 }
 
 /* Haldi */
 .haldi-card {
-    background-image:   url('images/22.png');
+    background-image:   url('images/22.jpg');
 }
 
 /* Wedding */
 .wedding-card {
-    background-image: url('images/23.png');
+    background-image: url('images/23.jpg');
 }
 
 /* BUTTON */
@@ -318,7 +318,7 @@ section{
 /* VENUE BACKGROUND MORE VISIBLE */
 #venue{
     background: linear-gradient(rgba(255,255,255,0.45),rgba(255,255,255,0.45)),
-                url('images/16.png');
+                url('images/16.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -506,7 +506,7 @@ section{
 
 /* COUNTDOWN SECTION */
 .countdown{
-    background: url('images/17.png');
+    background: url('images/17.jpg');
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -665,7 +665,7 @@ section{
     height: 340px;
     margin-top: 60px;
 
-    background: url('images/20.png');
+    background: url('images/20.jpg');
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
